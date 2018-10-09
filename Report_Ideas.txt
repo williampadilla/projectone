@@ -1,0 +1,11 @@
+Report Ideas
+•	Education Vs Salary
+•	Marital Status Vs Hours Worked
+•	Work Class vs Salary
+•	Education Vs Work Class
+•	Age Vs Occupation
+•	Education Vs Native Country
+•	Native Country Vs Hours Worked
+•	Native Country Vs Sex Vs Occupation
+•	Race Vs Sex Vs Age
+•	Native Country Vs Education Vs Occupation
