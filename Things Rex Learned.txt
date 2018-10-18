@@ -1,6 +1,8 @@
 William and Praful are great guys.  I learned alot about team work and persona struggle from both of them.
 We used Human Resource data from 1994 for this project.
 I expected so see some trends due to the type of data and timing of the data.  When it comes to gender it saw that 36 percent of the higher paid population was female and over 66 percent was male.  If we had data from 2018 it would be great to see how much close these numbers have gotten.
-We discovered that married people made more money than non married people.  With enough information it would be great to see if age had anything to do with this (expecting that married people are older and therefore have more experience)
+We discovered that married people made more money than non married people.  With enough information we saw that married people making more than 50k a year did have more education (expecting that married people are older and therefore have more eduction and experience)
 I found that people in the USA worked longer than people in other countries.  We didnt have enough sample data on other countries to make this a viable comparision so it was omitted.
 We found and expected that people with college education or higher are more likely to make more money
+I also found that people working in the private sector make more money than people in the public sector.  (Growing up people would say that you get your experience by working for the government then you take that experience and get a private sector job making more money.  I guess there was some truth to that mindset).
+During this time I also noticed that admin jobs were mostly held by females.  Given this is from 20 years ago it is safe to say that this trend has changed.
